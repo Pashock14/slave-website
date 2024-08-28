@@ -1,0 +1,44 @@
+html, body {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/6/6b/Half_closed_laptop_%28Unsplash%29.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 0;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    margin:0;
+}
+
+h1 {
+    color: white;
+}
+
+hr {
+    margin: 20px auto;
+    color: rgb(142, 202, 21);
+    border: 1px solid rgb(142, 202, 21);
+    border-radius: 1px;
+    max-width: 65px;
+    opacity: 1;  
+}
+
+.btn {
+    border-radius: 20px;
+    background-color: olivedrab;
+    border-color: olivedrab;
+    padding: 6px 33px;
+}
+
+.btn:hover {
+    background-color: rgb(89, 124, 20);
+    border-width: 3px;
+    border-color:  rgb(89, 124, 20);;
+}
+
+.buffer {
+    height: 70px;
+}
